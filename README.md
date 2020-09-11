@@ -10,7 +10,7 @@ OR
 * Switch to a directory you want to download to and run:
 * git clone https://github.com/aprykhus/PathParser.git
 # Instructions
-Open Command Prompt and type:
+Open Command Prompt, change to the directory containing the ParsePath.bat and type:
 
 **ParsePath.bat**
 # Notes

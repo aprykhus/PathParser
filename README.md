@@ -1,5 +1,5 @@
 # Description
-The PATH command on windows just outputs the PATH variable in one long string. Not that easy to read. The Environment Variables GUI can be cumbersome if you have many entries. This batch file parses the PATH variable and prints each entry on its own line and sorts by SYSTEM and USER variables.
+The PATH command in Windows just outputs the PATH variable as one long semicolon delimeted string. Not so easy to read. The Environment Variables GUI can be cumbersome if you have many entries. This batch file parses the PATH variable and prints each entry on its own line and sorts by SYSTEM and USER variables.
 # Installation
 * Copy/Paste the code into a text editor and save as ParsePath.bat file
 
@@ -12,6 +12,6 @@ OR
 # Instructions
 Open Command Prompt and type:
 
-ParsePath.bat
+**ParsePath.bat**
 # Notes
 Tested on Windows 10 version 2004

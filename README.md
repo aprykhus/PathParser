@@ -11,6 +11,7 @@ OR
 * git clone https://github.com/aprykhus/PathParser.git
 # Instructions
 Open Command Prompt and type:
+
 ParsePath.bat
 # Notes
 Tested on Windows 10 version 2004
